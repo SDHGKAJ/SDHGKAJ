@@ -1,11 +1,14 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Srinivasan+N+%F0%9F%91%8B;Data+Analyst+%7C+Frontend+Developer;Building+things+that+matter." alt="Typing SVG" />
+<!-- Hero banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=200&section=header&text=Srinivasan%20N&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Frontend%20Developer&descAlignY=58&descSize=22" alt="Srinivasan N" />
 
-<br/>
+<!-- Animated tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions.;Designing+clean%2C+responsive+interfaces.;Always+building+something+new." alt="Typing SVG" />
 
-<!-- Social badges -->
+<br/><br/>
+
+<!-- Social -->
 <a href="https://www.linkedin.com/in/srini1185v/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -31,86 +34,66 @@ name: Srinivasan N
 location: India 🇮🇳
 education: B.Tech CSE @ SRM Institute of Science and Technology (2027)
 roles: [Data Analyst, Frontend Developer]
-currently_working_on: Real-time data analytics projects
-currently_learning: [Pandas, NumPy, Advanced ML]
-looking_to_collaborate: Data analytics & web development projects
 interests: [AI/ML, Data Visualization, Building cool stuff]
 contact: srini6133srini@gmail.com
-```
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Data & Databases**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
+🌱 Currently
+- 🔭 Working on: Real-time data analytics projects
+- 📚 Learning: Pandas, NumPy & advanced Machine Learning
+- 👯 Open to collaborate on: Data analytics & web development projects
+- 💬 Ask me about: Python, SQL, or front-end design
+🛠️ Tech Stack
+Languages
+Python
+JavaScript
+Java
+C++
+C#
+C
+Frontend
+HTML5
+CSS3
+Figma
+Data & Databases
+Pandas
+NumPy
+MySQL
+Microsoft SQL Server
+Tools & Platforms
+Git
+Arduino
+VS Code
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdhgkaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdhgkaj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+  <br/>
+  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,cs,c,html,css,figma,mysql,git,arduino,vscode&theme=dark&perline=13" alt="Skill icons" />
 </div>
-
+🚀 Featured Projects
+🧠 Stressdetector
+ML model that detects stress levels from physiological sensor data.<br/><br/>Python<br/><br/>Repository → (https://github.com/SDHGKAJ/Stressdetector)
+✈️ TripGuard-AI
+AI travel-safety companion that flags risks and plans safer trips.<br/><br/>Jupyter Python<br/><br/>Repository → (https://github.com/SDHGKAJ/TripGuard-AI)
+🏥 MedOps
+Operations platform for managing medical workflows and records.<br/><br/>JavaScript Docker<br/><br/>Repository → (https://github.com/SDHGKAJ/MedOps)
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdhgkaj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <sub>📌 Explore everything else at <a href="https://github.com/SDHGKAJ?tab=repositories"><b>github.com/SDHGKAJ →</b></a></sub>
 </div>
-
+📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sdhgkaj&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+<table>
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=sdhgkaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdhgkaj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+<img src="https://streak-stats.demolab.com?user=sdhgkaj&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
-
----
-
-## 🚀 Featured Projects
-
-> 📌 Check out all my projects at [**my portfolio →**](https://sdhgkaj.github.io/PortFolio-1/)
-
----
-
-## 📈 Contribution Graph
-
+📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdhgkaj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sdhgkaj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </div>
-
----
-
 <div align="center">
-
-**"First, solve the problem. Then, write the code."** — John Johnson
-
+"First, solve the problem. Then, write the code." — John Johnson
 <br/>
-
-⭐ *If you like what you see, consider starring a repo or two!*
-
-</div>
